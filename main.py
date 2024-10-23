@@ -21,4 +21,4 @@ for i in a:
         print(t,end)
     except:
         None
-file_obj.close()       
+file_obj.close()
